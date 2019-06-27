@@ -1,0 +1,10 @@
+﻿  ConsoleApplication15.cpp
+c:\users\компьютер\source\repos\consoleapplication15\consoleapplication15\consoleapplication15.cpp(7): error C2065: ifstream: необъявленный идентификатор
+c:\users\компьютер\source\repos\consoleapplication15\consoleapplication15\consoleapplication15.cpp(7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fout"
+c:\users\компьютер\source\repos\consoleapplication15\consoleapplication15\consoleapplication15.cpp(7): error C2065: fout: необъявленный идентификатор
+c:\users\компьютер\source\repos\consoleapplication15\consoleapplication15\consoleapplication15.cpp(8): error C2065: fout: необъявленный идентификатор
+c:\users\компьютер\source\repos\consoleapplication15\consoleapplication15\consoleapplication15.cpp(10): error C2065: fout: необъявленный идентификатор
+c:\users\компьютер\source\repos\consoleapplication15\consoleapplication15\consoleapplication15.cpp(11): error C2065: fout: необъявленный идентификатор
+c:\users\компьютер\source\repos\consoleapplication15\consoleapplication15\consoleapplication15.cpp(13): error C2065: fout: необъявленный идентификатор
+c:\users\компьютер\source\repos\consoleapplication15\consoleapplication15\consoleapplication15.cpp(33): error C2059: синтаксическая ошибка: ;
+c:\users\компьютер\source\repos\consoleapplication15\consoleapplication15\consoleapplication15.cpp(42): error C2065: fout: необъявленный идентификатор
