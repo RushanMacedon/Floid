@@ -1,0 +1,2 @@
+﻿ConsoleApplication15.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __thiscall Algoritm::Floyd(void)" (?Floyd@Algoritm@@QAEXXZ) в функции _main
+C:\Users\Компьютер\source\repos\ConsoleApplication15\Debug\ConsoleApplication15.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
